@@ -8,8 +8,8 @@ This tool focuses on the analysis and reconstruction of wireless sensor data. In
 1. **Clone the repository:**
 ```bash
 # Using HTTPS (Recommended for most users)
-git clone https://github.com/Cathy-5/AdaptiveSampling.git
-cd AdaptiveSampling
+git clone https://github.com/Hatemgab/DSAR-PMLO.git
+cd DSAR-PMLO
 ```
 2. Install dependencies:
 ```bash
@@ -26,7 +26,7 @@ python3 path.py
 > *Click the badge above to watch a short video on how to use the Manual and Automated modes.*
 
 ## Which Program Should I Use?
-| Feature | **Manual Mode** (`DSRA-BPML...`) | **Automated Mode** (`DSRA-PMLB...`) |
+| Feature | **Manual Mode** (`DSRA-BPML...`) | **Automated Mode** (`DSRA-PMLO...`) |
 | :--- | :--- | :--- |
 | **Speed** | **Fast** (~2-5 mins) | **Slower** (~15-30 mins*) |
 | **Effort** | User-guided tuning required | Fully autonomous |
@@ -41,7 +41,7 @@ Save your data in the /data folder. The file must be in .txt or .csv format.
 2. Running Your Chosen Mode
 Option A: Automated Mode (Set and Forget)
 Use this if you want the program to handle the optimization of E and S parameters automatically.
-1. Open DSRA-PMLB_automated_corrected.ipynb.
+1. Open DSRA-PMLO_automated_corrected.ipynb.
 2. Parameters Configuration(usually Cell 2): Define your column name, SIMILARITY_METHOD (MAAPE recommended), and SIMILIARITY_THRESHOLD(e.g., 2 for 2% error).
 3. File Path(usually Cell 3): Update the filename to match yoru dataset in the /data folder.
 4. Parameter Mapping(usually Cell 4): Update the attribute name (e.g., change .Amplitude to your specific heading).

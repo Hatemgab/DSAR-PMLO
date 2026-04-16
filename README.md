@@ -2,7 +2,7 @@
 **A parametric adaptive sampling algorithm for efficient IoT data collection.**
 
 ## Result Demonstration
-https://github.com/Hatemgab/DSAR-PMLO/blob/main/assets/result_animation.mp4
+https://github.com/user-attachments/assets/a74d40a2-fe6e-4e91-8129-8563600149d8
 > *Above: Dynamic demonstration of the adaptive sampling process.*
 
 ## Project Overview

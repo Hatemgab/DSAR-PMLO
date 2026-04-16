@@ -2,7 +2,7 @@
 **A parametric adaptive sampling algorithm for efficient IoT data collection.**
 
 ## Result Demonstration
-![Step 1](./assets/heatmap_step1.png) 
+![Algorithm Animation](./assets/result_animation.gif) 
 > *Above: Dynamic demonstration of the adaptive sampling process.*
 
 ## Project Overview

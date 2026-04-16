@@ -3,7 +3,7 @@
 
 ## Result Demonstration
 <div align="center">
-  <video src="./assets/result_animation.mp4" width="80%" controls muted>
+  <video src="./assets/heatmap_step1.png" width="80%" controls muted>
   </video>
 </div>
 
